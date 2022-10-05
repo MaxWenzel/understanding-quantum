@@ -4,6 +4,7 @@
 
 - [The Physics of Quantum Information](https://arxiv.org/abs/2208.08064): von John Preskill
 - [The Early Days of Quantum Computation](https://arxiv.org/abs/2208.09964): von Peter W. Shor
+- [The Future of Quantum Computing with Superconducting Qubits](https://arxiv.org/abs/2209.06841)
 
 ## Misc
 
